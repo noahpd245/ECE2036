@@ -2,7 +2,7 @@
 Created to organize my code for the ECE2036 class
 
 
-#PracticePrograms
+# PracticePrograms
 This directory contains programs based on ideas from the following link:
 
 http://www.cplusplus.com/forum/articles/12974/
